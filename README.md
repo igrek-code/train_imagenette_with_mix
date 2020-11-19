@@ -32,3 +32,7 @@ The first element of the tuple will be the type of mix you want (it's a string).
 The second element of the tuple will be the alpha parameter (it's a float).
 
 If you don't want to apply any *mix* pass **None**.
+
+## Note
+
+If you want to know more about these data augmentation techniques, check out my blog post: [Mixup, Manifold Mixup and CutMix](https://igrek-code.github.io/blog/2020/11/18/mixup_manifold_mixup_cutmix.html)
